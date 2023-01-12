@@ -16,7 +16,7 @@ Prerequisites:
 3) Modify search_path, maxsize & comsol_server_path
 4) Test the script on any test folder before you feed it with the entire disk
 
-Search strings:
+### Search strings:
 * Batch reduction of COMSOL projects file size
 * Script for clearing solution data in MPH-files
 * Batch processing of COMSOL MPH-files
