@@ -1,4 +1,4 @@
-# comsol_cleanup_script
+# COMSOL cleanup script
 MATLAB script for clearing solution data in MPH-files
 
 COMSOL projects consume enormous amount of disk space. This space can be drastically reduced by removing solution & mesh data from the MPH-files.
@@ -15,3 +15,8 @@ Prerequisites:
 2) Install all COMSOL modules required by files your are going to reduce 
 3) Modify search_path, maxsize & comsol_server_path
 4) Test the script on any test folder before you feed it with the entire disk
+
+Search strings:
+> Batch reduction of COMSOL projects file size
+> Script for clearing solution data in MPH-files
+> Batch processing of COMSOL MPH-files
